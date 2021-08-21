@@ -1,0 +1,16 @@
+{
+    "usuarios":[
+        {
+            "id":1,
+            "name": "Rocío",
+            "username": "rocioag.6984@gmail.com",
+            "password": "3fec6ed86715b86e059c87df7aade78e"
+        },
+        {
+            "id":2,
+            "name": "Arya",
+            "username": "arylandia@gmail.com",
+            "password":"d15549df9c25bff5eebcd979c615409c"
+        }
+    ]
+}
